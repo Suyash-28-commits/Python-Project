@@ -9,7 +9,7 @@ The repository serves as a hands-on demonstration for learning Git fundamentals,
 ## 📢 Workshop Poster
 
 <p align="center">
-  <img src="poster.png" alt="Mastering Git and GitHub Session" width="600">
+  <img src="poster.jpeg" alt="Mastering Git and GitHub Session" width="600">
 </p>
 
 > **Speaker:** Suyash Das  
